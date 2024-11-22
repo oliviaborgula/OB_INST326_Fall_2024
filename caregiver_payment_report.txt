@@ -1,0 +1,37 @@
+Caregiver Payment Report
+==============================
+
+Week 1
+------------------------------
+Caregiver: Hannah, Pay: $480.00
+Caregiver: Eve, Pay: $120.00
+Caregiver: Grace, Pay: $240.00
+Caregiver: Frank, Pay: $240.00
+Total Weekly Pay: $1080.00
+
+Week 2
+------------------------------
+Caregiver: Eve, Pay: $240.00
+Caregiver: Hannah, Pay: $360.00
+Caregiver: Grace, Pay: $360.00
+Caregiver: Frank, Pay: $240.00
+Total Weekly Pay: $1200.00
+
+Week 3
+------------------------------
+Caregiver: Grace, Pay: $480.00
+Caregiver: Eve, Pay: $120.00
+Caregiver: Hannah, Pay: $120.00
+Total Weekly Pay: $720.00
+
+Week 4
+------------------------------
+Caregiver: Eve, Pay: $240.00
+Caregiver: Grace, Pay: $120.00
+Caregiver: Frank, Pay: $120.00
+Caregiver: Hannah, Pay: $120.00
+Total Weekly Pay: $600.00
+
+==============================
+Total Monthly Pay: $3600.00
+==============================
